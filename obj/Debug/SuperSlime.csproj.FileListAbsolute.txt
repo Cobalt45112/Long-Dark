@@ -1,0 +1,11 @@
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\bin\Debug\SuperSlime.dll
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\bin\Debug\SuperSlime.pdb
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\bin\Debug\OTAPI.dll
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\bin\Debug\TerrariaServer.exe
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\bin\Debug\TShockAPI.dll
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\bin\Debug\MySql.Data.dll
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\obj\Debug\SuperSlime.csprojResolveAssemblyReference.cache
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\obj\Debug\SuperSlime.dll
+C:\Users\jiong\Desktop\Programs\TShock Plugins\SuperSlime\SuperSlime\obj\Debug\SuperSlime.pdb

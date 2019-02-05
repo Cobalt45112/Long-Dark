@@ -1,0 +1,18 @@
+C:\Users\Justin\Desktop\TR Plugins\SuperSlime-master\SuperSlime-master\bin\Debug\LongDark.dll
+C:\Users\Justin\Desktop\TR Plugins\SuperSlime-master\SuperSlime-master\bin\Debug\LongDark.pdb
+C:\Users\Justin\Desktop\TR Plugins\SuperSlime-master\SuperSlime-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Justin\Desktop\TR Plugins\SuperSlime-master\SuperSlime-master\bin\Debug\MySql.Data.dll
+C:\Users\Justin\Desktop\TR Plugins\SuperSlime-master\SuperSlime-master\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Justin\Desktop\TR Plugins\SuperSlime-master\SuperSlime-master\obj\Debug\LongDark.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Desktop\TR Plugins\SuperSlime-master\SuperSlime-master\obj\Debug\LongDark.dll
+C:\Users\Justin\Desktop\TR Plugins\SuperSlime-master\SuperSlime-master\obj\Debug\LongDark.pdb
+C:\Users\Justin\Desktop\TR Plugins\Long Dark\Long Dark\bin\Debug\LongDark.dll
+C:\Users\Justin\Desktop\TR Plugins\Long Dark\Long Dark\bin\Debug\LongDark.pdb
+C:\Users\Justin\Desktop\TR Plugins\Long Dark\Long Dark\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Justin\Desktop\TR Plugins\Long Dark\Long Dark\bin\Debug\MySql.Data.dll
+C:\Users\Justin\Desktop\TR Plugins\Long Dark\Long Dark\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Justin\Desktop\TR Plugins\Long Dark\Long Dark\obj\Debug\LongDark.dll
+C:\Users\Justin\Desktop\TR Plugins\Long Dark\Long Dark\obj\Debug\LongDark.pdb
+C:\Users\Justin\Desktop\TR Plugins\Long Dark\Long Dark\obj\Debug\LongDark.csprojAssemblyReference.cache
+C:\Users\Justin\Desktop\TR Plugins\Long Dark\Long Dark\obj\Debug\LongDark.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\TR Plugins\Long Dark\Long Dark\obj\Debug\LongDark.csproj.CopyComplete
